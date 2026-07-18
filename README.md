@@ -15,7 +15,7 @@ I am learning JavaScript using the following resources:
 - Practice exercises
 - Personal projects
 
-My goal is not only to watch tutorials or read explanations. I want to understand JavaScript, practice every concept, solve problems independently, build projects and document my progress on GitHub.
+My goal is not only to watch tutorials or read explanations. I want to understand JavaScript, practice every concept, solve problems independently, build projects and document my progress on GitHub..
 
 ---
 
